@@ -31,6 +31,8 @@ const requestLogger = (request, response, next) => {
 	next();
 };
 
+app.use(express.static("dist"));
+
 // Middleware to use and allow for requests from all origins
 app.use(cors());
 
