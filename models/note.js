@@ -13,7 +13,7 @@ mongoose.connect(url)
 
 // Define el Schema (como seran almacenados los datos en la bd)
 const noteSchema = new mongoose.Schema({
-	// Define specific validation rules for each field
+	// Define reglas de validacion especificas para cada campo
 	content: {
 		type: String,
 		minLength: 5,
