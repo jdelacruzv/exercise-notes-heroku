@@ -1,7 +1,5 @@
 # Notes app 
 
-### frontend:
-You can check the frontend of the app: https://intense-caverns-52608.herokuapp.com
+- You can check the __frontend__ of the app: https://exercise-notes-app.herokuapp.com/
 
-### backend: 
-You can check the backend of the app: https://intense-caverns-52608.herokuapp.com/api/notes
+- You can check the __backend__ of the app: https://exercise-notes-app.herokuapp.com/api/notes
